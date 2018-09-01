@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Capro"/>
+<mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS">
+<mapEntry key="com.Constant.URL" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_All_Products" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_All_Products_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Careers" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Careers_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Contactus_InValid" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Contactus_InValid_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Contactus_Valid" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Contactus_Valid_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Index" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Index_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Myaccount" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Myaccount_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Onlinestore" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Onlinestore_Test" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Products_At_Glance" value=""/>
+<mapEntry key="com.FunctionalTesting.Tc_Capro_Products_At_Glance_Test" value=""/>
+<mapEntry key="com.commonUtilities.CrossBrowser" value=""/>
+<mapEntry key="com.commonUtilities.Data_Driven_design" value=""/>
+<mapEntry key="com.commonUtilities.ScreenShot" value=""/>
+</mapAttribute>
+<listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+<listEntry value="com.FunctionalTesting.Tc_Capro_Contactus_InValid_Test"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_All_Products_Test"/>
+<listEntry value="com.commonUtilities.ScreenShot"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Careers_Test"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Myaccount_Test"/>
+<listEntry value="com.commonUtilities.CrossBrowser"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Onlinestore"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Products_At_Glance_Test"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Myaccount"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Contactus_InValid"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Careers"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Contactus_Valid"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_All_Products"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Index"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Onlinestore_Test"/>
+<listEntry value="com.commonUtilities.Data_Driven_design"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Contactus_Valid_Test"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Index_Test"/>
+<listEntry value="com.Constant.URL"/>
+<listEntry value="com.FunctionalTesting.Tc_Capro_Products_At_Glance"/>
+</listAttribute>
+<booleanAttribute key="org.testng.eclipse.DEBUG" value="false"/>
+<listAttribute key="org.testng.eclipse.GROUP_LIST"/>
+<listAttribute key="org.testng.eclipse.GROUP_LIST_CLASS"/>
+<stringAttribute key="org.testng.eclipse.LOG_LEVEL" value="2"/>
+<listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+<listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+<stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+<stringAttribute key="org.testng.eclipse.PROTOCOL" value="json"/>
+<intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+<booleanAttribute key="org.testng.eclipse.VERBOSE" value="false"/>
+</launchConfiguration>

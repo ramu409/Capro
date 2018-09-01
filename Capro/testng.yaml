@@ -1,0 +1,26 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+    classes:
+      - com.FunctionalTesting.TC_Capro_admin_Careers_InValid_Test
+      - com.FunctionalTesting.TC_Capro_admin_Category_Invalid_Test
+      - com.FunctionalTesting.Tc_Capro_Contactus_Valid_Test
+      - com.SmokeTesting.TC_Capro_admin_ForgotPasswordpage_valid_Data_Test
+      - com.FunctionalTesting.TC_Capro_admin_Category_Test
+      - com.CommonUtilities.CrossBrowser
+      - com.FunctionalTesting.TC_Capro_admin_Careers_Valid_Test
+      - com.FunctionalTesting.TC_Capro_admin_Checkprescription_Test
+      - com.FunctionalTesting.Tc_Capro_Careers_Test
+      - com.FunctionalTesting.Tc_Capro_All_Products_Test
+      - com.FunctionalTesting.Tc_Capro_Contactus_InValid_Test
+      - com.FunctionalTesting.Tc_Capro_Onlinestore_Test
+      - com.FunctionalTesting.Tc_Capro_Index_Test
+      - com.FunctionalTesting.TC_Capro_admin_admin_Test
+      - com.SmokeTesting.TC_Capro_admin_Loginwith_valid_data_Test
+      - com.FunctionalTesting.Tc_Capro_Products_At_Glance_Test
+      - com.SmokeTesting.TC_Capro_admin_Loginwith_Invalid_data_Test
+      - com.FunctionalTesting.Tc_Capro_Myaccount_Test
+      - com.FunctionalTesting.TC_Capro_admin_Dashboard_Test
+      - com.FunctionalTesting.TC_Capro_admin_Headerlinks_Test
+

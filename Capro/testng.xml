@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Careers_InValid_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Category_Invalid_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Contactus_Valid_Test"/>
+      <class name="com.SmokeTesting.TC_Capro_admin_ForgotPasswordpage_valid_Data_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Category_Test"/>
+      <class name="com.CommonUtilities.CrossBrowser"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Careers_Valid_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Checkprescription_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Careers_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_All_Products_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Contactus_InValid_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Onlinestore_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Index_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_admin_Test"/>
+      <class name="com.SmokeTesting.TC_Capro_admin_Loginwith_valid_data_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Products_At_Glance_Test"/>
+      <class name="com.SmokeTesting.TC_Capro_admin_Loginwith_Invalid_data_Test"/>
+      <class name="com.FunctionalTesting.Tc_Capro_Myaccount_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Dashboard_Test"/>
+      <class name="com.FunctionalTesting.TC_Capro_admin_Headerlinks_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
